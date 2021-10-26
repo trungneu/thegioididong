@@ -68,7 +68,7 @@
     font-family: arial;
 }
 .topsite_cart{
-    background-image: url(icon/icon-cart.png);
+    background-image: url(icon-cart.png);
     background-repeat: no-repeat;
     margin-top: 2px;
     padding: 6px 5px 6px 30px;
@@ -163,31 +163,31 @@
 }
 
 .icon-dienthoai{
-    background-image: url(icon/001-smartphone.png);
+    background-image: url(001-smartphone.png);
     background-repeat: no-repeat;
 }
 .icon-laptop{
-    background-image: url(icon/001-notebook-computer.png);
+    background-image: url(001-notebook-computer.png);
     background-repeat: no-repeat;
 }
 .icon-tablet{
-    background-image: url(icon/002-tablet.png);
+    background-image: url(002-tablet.png);
     background-repeat: no-repeat;
 }
 .icon-phukien{
-    background-image: url(icon/002-headphones.png);
+    background-image: url(002-headphones.png);
     background-repeat: no-repeat;
 }
 .icon-iwatch{
-    background-image: url(icon/003-iwatch.png);
+    background-image: url(003-iwatch.png);
     background-repeat: no-repeat;
 }
 .icon-fwatch{
-    background-image: url(icon/001-watch.png);
+    background-image: url(001-watch.png);
     background-repeat: no-repeat;
 }
 .icon-pc{
-    background-image: url(icon/004-personal-computer.png);
+    background-image: url(004-personal-computer.png);
     background-repeat: no-repeat;
 }
 /* Làm Menu cấp 2 */
